@@ -1,0 +1,11 @@
+commit f01bfc633983663877dd773fa1f6fac56f5c6bf7
+Author: gucentenaro <gustavobcentenaro@gmail.com>
+Date:   Mon Dec 1 18:05:29 2025 -0300
+
+    Entrega parte 1: Blink LED com SystemD
+
+commit 3a722fcbb302a308f6ffb3e4f67ddc50aa43cf7f
+Author: gucentenaro <166958399+gucentenaro@users.noreply.github.com>
+Date:   Mon Dec 1 16:28:43 2025 -0300
+
+    Initial commit
