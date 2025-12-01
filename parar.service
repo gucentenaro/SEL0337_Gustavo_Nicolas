@@ -1,0 +1,11 @@
+[Unit]
+Description=Servico Python Blink nicogu
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/sel/nicogu/blink_nicogu.py
+ExecStop=/home/sel/nicogu/parar_led.sh
+User=nicogu 
+
+[Install]
+WantedBy=multi-user.target
