@@ -54,5 +54,8 @@ Geração de logs de histórico para documentação.
 **Evidências**
 
 
+<img width="761" height="445" alt="image" src="https://github.com/user-attachments/assets/357cc7fd-96aa-45ac-bcbf-9ae32ab23045" />
+
+
 A montagem física foi realizada utilizando a GPIO 18 da Raspberry Pi conectada a um LED e resistor na protoboard. O funcionamento do serviço foi validado via terminal através do comando systemctl status.
 
